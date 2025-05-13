@@ -2,6 +2,5 @@
 
 int main()
  {
-     printf("swaggurz");
-     return 0;		
+	printf("succhiami il cazzo sono il capo");
  }
